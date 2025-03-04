@@ -1,4 +1,4 @@
-import { Products } from "../interfaces/products";
+import Products from "../interfaces/products";
 
 export const productsMock: Products[] = [
     {
