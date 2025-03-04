@@ -1,14 +1,16 @@
 import Products from "../interfaces/products";
+import { productsMock } from "../mocks/productsMock";
 
 
 const apiURL = process.env.NEXT_PUBLIC_API_URL;
+const demoMode = JSON.parse(process.env.DEMO_MODE || "false");
 
 export const getProducts = async (): Promise<Products[]> => {
     const result = await fetch(apiURL + "/products", {
         cache: "no-store",
     }).then((res) => res.json()).catch((error) => {
         console.log(error);
-        return [];
+        return demoMode ? productsMock : [];
     });
 
     return result;

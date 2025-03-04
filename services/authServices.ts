@@ -7,7 +7,10 @@ export const registerService = async (registerData: Data) => {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(registerData),
-    }).then((res) => res.json());
+    }).then((res) => res.json()).catch((error) => {
+        console.log(error);
+        
+    });
 
     return await response;
 }
@@ -17,7 +20,9 @@ export const loginService = async (loginData: Data) => {
         method: "POST",
         headers: {"Content-Type": "application/json" },
         body: JSON.stringify(loginData),
-    }).then((res) => res.json());
+    }).then((res) => res.json()).catch((error) => {
+        console.log(error);
+    });
 
     return await response;
 }
