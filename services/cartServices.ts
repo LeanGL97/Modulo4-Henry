@@ -1,5 +1,5 @@
 import { headers } from "next/headers";
-import { Products } from "../interfaces/products";
+import  Products  from "../interfaces/products";
 
 const apiURL = process.env.NEXT_PUBLIC_API_URL;
 
