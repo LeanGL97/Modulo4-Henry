@@ -8,7 +8,7 @@ export const productsMock: Products[] = [
         "price": 699,
         "stock": 10,
         "image": "https://www.pngarts.com/files/8/Apple-iPhone-11-Download-PNG-Image.png",
-        "categoryId": 1
+        "categoryId": "1"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@ export const productsMock: Products[] = [
         "price": 999,
         "stock": 10,
         "image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111883_macbookair.png",
-        "categoryId": 2
+        "categoryId": "2"
     },
     {
         "id": 3,
@@ -26,7 +26,7 @@ export const productsMock: Products[] = [
         "price": 799,
         "stock": 10,
         "image": "https://www.macstation.com.ar/web/image/product.product/88856/image_1024/%5BMVV83LE-A%5D%20iPad%20Pro%2011%22%20M4%20WiFi%20256GB%2C%20Vidrio%20Est%C3%A1ndar%20-%20Negro%20Espacial?unique=708d512",
-        "categoryId": 3
+        "categoryId": "3"
     },
     {
         "id": 4,
@@ -35,7 +35,7 @@ export const productsMock: Products[] = [
         "price": 399,
         "stock": 10,
         "image": "https://www.att.com/scmsassets/global/devices/other/apple/apple-watch-ultra-2-49mm/carousel/black-titanium-black-ocean-band-1.png ",
-        "categoryId": 4
+        "categoryId": "4"
     },
     {
         "id": 5,
@@ -44,7 +44,7 @@ export const productsMock: Products[] = [
         "price": 249,
         "stock": 10,
         "image": "https://png.pngtree.com/png-vector/20231104/ourmid/pngtree-apple-airpods-pro-png-image_10477533.png ",
-        "categoryId": 5
+        "categoryId": "5"
     },
     {
         "id": 6,
@@ -53,6 +53,6 @@ export const productsMock: Products[] = [
         "price": 99,
         "stock": 10,
         "image": "https://www.apple.com/v/homepod-mini/j/images/overview/hero_homepod_blue__eobtqej8h9me_large.png ",
-        "categoryId": 6
+        "categoryId": "6"
     }
 ]

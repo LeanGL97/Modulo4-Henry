@@ -5,7 +5,7 @@ interface Products {
     price: number;
     stock?: number;
     image: string;
-    categoryId: number;
+    categoryId: string;
 }
 
 export default Products;
