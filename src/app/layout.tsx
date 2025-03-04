@@ -37,7 +37,11 @@ export default function RootLayout({
               <nav><Navbar /></nav>
               <main className="bleed flex-1">{children}</main>
               <footer className="mt-auto"><Footer /></footer>
-              <ToastContainer />
+              <ToastContainer
+                position="top-center"
+                autoClose={3000}
+                hideProgressBar={true}
+                closeButton={false} />
             </body>
           </html>
         </AuthProvider>

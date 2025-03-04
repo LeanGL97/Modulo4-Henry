@@ -1,4 +1,4 @@
-import { Products } from "./products";
+import Products from "./products";
 import { User } from "./users";
 
 export interface Order {

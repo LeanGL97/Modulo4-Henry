@@ -6,7 +6,7 @@ export interface UserSession {
     token: string;
 };
 
-interface User {
+export interface User {
     id: number;
     name: string;
     email: string;
