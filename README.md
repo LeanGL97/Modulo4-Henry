@@ -1,5 +1,5 @@
 # Gianouis Store- Proyecto del Modulo 4
-Este es el proyecto del Modulo 4 presentado en Henry, el cual realicé en solitario.
+Este es el proyecto del Modulo 4 presentado en Henry, el cual realicé en solitario. En este proyecto utilizamos PostgreSQL para la base de datos, y en el front trabajamos con Next.js, TypeScript y TailwindCSS.
 
 <p align="center">
   <img src="./public/gianouisw.png" alt="Vista previa" width="300"/>
