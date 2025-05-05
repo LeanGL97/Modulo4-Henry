@@ -1,4 +1,4 @@
-# Giuanouis Store- Proyecto del Modulo 4
+# Gianouis Store- Proyecto del Modulo 4
 Este es el proyecto del Modulo 4 presentado en Henry, el cual realicé en solitario.
 
 <p align="center">
