@@ -5,7 +5,7 @@ Este es el proyecto del Modulo 4 presentado en Henry, el cual realicé en solita
   <img src="./public/gianouisw.png" alt="Vista previa" width="300"/>
 </p>
 
-**Gianouis Store** es una plataforma Ecommerce diseñada para la venta y distribución  Dicha plataforma cuenta con diseño responsive.
+**Gianouis Store** es una plataforma Ecommerce diseñada para la venta y distribución de productos Apple. Dicha plataforma cuenta con diseño responsive.
   
 El proyecto se encuentra deployado y disponible para su visita. Cabe mencionar que su back aún no se encuentra deployado, por lo cual no es posible completar algunas funcionalidades.
 
