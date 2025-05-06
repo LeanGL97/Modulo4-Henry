@@ -14,7 +14,7 @@ El proyecto se encuentra deployado y disponible para su visita. Cabe mencionar q
 ## Vista previa
 
 <p align="center">
-  <img src="./public/pm4a.jpg" alt="Captura 1" width="600" style="margin-bottom: 15px;"/>
+  <img src="./public/pm3a.jpg" alt="Captura 1" width="600" style="margin-bottom: 15px;"/>
   <br/>
   <img src="./public/pm4b.jpg" alt="Captura 2" width="600" style="margin-bottom: 15px;"/>
   <br/>
